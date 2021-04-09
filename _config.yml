@@ -57,7 +57,8 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-contact_note: > Plz contact me via email directly.
+contact_note: > 
+  "Plz contact me via email directly."
 
 google_analytics:  # out your google-analytics code
 panelbear_analytics:  # panelbear analytics site ID
